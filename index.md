@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="right" src="photoanton.jpg" width="200">
+<img align="right" style="border: 10px solid transparent" src="photoanton.jpg" width="200">
 
 I am a Research Associate in the Maths and Stats Department at the University  
 of Western Australia.  
