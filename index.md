@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Anton Baykalov"
+title: ""
 ---
 
 I am a Research Associate in the Maths and Stats Department at the University of Western Australia.  
