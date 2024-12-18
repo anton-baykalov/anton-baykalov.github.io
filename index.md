@@ -11,4 +11,4 @@ In January 2025, I will be moving to [University of Galway](https://www.universi
 
 My research is in the field of Algebra, more specifically, Group Theory. That includes questions about finite groups, their representations and related combinatorial stractures. 
 
-This page is under development, so there is not much to see yet. But you can chack out my [CV](antonCV.pdf)
+This page is under development, so there is not much to see yet. But you can chack out my [CV](antonCV.pdf)!
