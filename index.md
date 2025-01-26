@@ -23,3 +23,6 @@ Algebra Logic 56 (2017), 87–97.
 
 
 ## Theses
+
+1. [Intersection of conjugate solvable subgroups in finite classical groups](https://researchspace.auckland.ac.nz/items/41a48dbb-85e5-4661-b3dd-6f3306cdb44b). PhD thesis, University of Auckland, 2021. [extended and improved version](
+https://doi.org/10.48550/arXiv.1703.00124)
