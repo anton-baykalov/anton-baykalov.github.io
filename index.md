@@ -21,6 +21,7 @@ This page is under development, so there is not much to see yet. But you can cha
 Geom. 20 (2023), no.2-3, 135–175. 
 1. [Intersection of conjugate solvable subgroups in symmetric groups.](https://doi.org/10.1007/s10469-017-9431-z).
 Algebra Logic 56 (2017), 87–97.
+{: reversed="reversed"}
 
 
 ## Theses
