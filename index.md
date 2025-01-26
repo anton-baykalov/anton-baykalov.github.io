@@ -8,9 +8,8 @@ title: ""
 
 I am a postdoctoral researcher in the [School of Mathematical and Statistical Sciences](https://www.universityofgalway.ie/science/school-of-maths/) at the [University of Galway](https://www.universityofgalway.ie/). Here I work with [Angela Carnevale](https://angelacarnevale.github.io/) and [Tobias Rossmann](https://torossmann.github.io/)  on a project related to explicit computations of subobject zeta functions of groups, algebras and other algebraic structures. 
 
-In general, my research is in the field of Algebra, more specifically, Group Theory. That includes questions about finite groups, their representations and related combinatorial stractures. I obtained my PhD in the end of 2021 at the University of Auckland and I worked there as a research assistant and a lecturer until June 2023. I was a postdoc at the University of Western Australia from June 2023 to December 2024. 
+In general, my research is in the field of Algebra, more specifically, Group Theory. That includes questions about finite groups, their representations and related combinatorial stractures. I obtained my PhD in the end of 2021 at the [University of Auckland](https://www.auckland.ac.nz/en.html) and I worked there as a research assistant and a lecturer until June 2023. I was a postdoc at the [University of Western Australia](https://www.uwa.edu.au/) from June 2023 to December 2024. 
 
-This page is under development, so there is not much to see yet. But you can chack out my [CV](antonCV.pdf)!
 
 ## Papers
 5. *Base sizes for finite unitary and symplectic groups with solvable stabilisers*. Under review in the Int. J. Algebra Comput. [(preprint)](/pdftexts/BaseUSpBaykalov.pdf).
@@ -24,5 +23,7 @@ Algebra Logic 56 (2017), 87–97.
 
 ## Theses
 
-1. [Intersection of conjugate solvable subgroups in finite classical groups](https://researchspace.auckland.ac.nz/items/41a48dbb-85e5-4661-b3dd-6f3306cdb44b). PhD thesis, University of Auckland, 2021. [(extended and improved version)](
+1. [*Intersection of conjugate solvable subgroups in finite classical groups*](https://researchspace.auckland.ac.nz/items/41a48dbb-85e5-4661-b3dd-6f3306cdb44b). PhD thesis, University of Auckland, 2021. [(extended and improved version)](
 https://doi.org/10.48550/arXiv.1703.00124)
+
+This page is under development, so there is not much to see yet. But you can check out my [CV](antonCV.pdf)!
