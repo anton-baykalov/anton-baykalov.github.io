@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ""
-classes: wide
 ---
 
 <img align="right"  style="margin-left: 10px;" src="photoanton.jpg" width="200">
