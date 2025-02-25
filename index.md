@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "fgfg"
 ---
 
 <img align="right"  style="margin-left: 10px;" src="photoanton.jpg" width="200">
