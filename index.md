@@ -33,22 +33,19 @@ https://doi.org/10.48550/arXiv.1703.00124)
 ## Employment
 
 ## Education
-2021 PhD in Mathematics, [University of Auckland](https://www.auckland.ac.nz/).
-
-2016 Master in Mathematics and Computer Science, [Novisibirsk State University](https://english.nsu.ru/).
-
-2014 Bachelor in Mathematics, [Novosibirks State University](https://english.nsu.ru/).
-
-2010 Highschool, [M. A. Lavrentyev Specialized Educational Scientific Center of the Novosibirsk State University](https://sesc.nsu.ru/) (Physics and Mathematics School).
+2021 PhD in Mathematics, [University of Auckland](https://www.auckland.ac.nz/).  
+2016 Master in Mathematics and Computer Science, [Novisibirsk State University](https://english.nsu.ru/).  
+2014 Bachelor in Mathematics, [Novosibirks State University](https://english.nsu.ru/).  
+2010 High School, [M. A. Lavrentyev Specialized Educational Scientific Center of the Novosibirsk State University](https://sesc.nsu.ru/) (Physics and Mathematics School).
 
 ## Contacts 
 
-Anton Baykalov
-School of Mathematical and Statistical Sciences
-University of Galway
-Galway
-H91 TK33
-Ireland
+&nbsp; Anton Baykalov  
+&nbsp; School of Mathematical and Statistical Sciences  
+&nbsp; University of Galway  
+&nbsp; Galway  
+&nbsp; H91 TK33  
+&nbsp; Ireland  
 
 E-mail: anton.baykalov (at) universityofgalway.ie
 
