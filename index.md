@@ -31,7 +31,7 @@ https://doi.org/10.48550/arXiv.1703.00124)
 ## Selected talks 
 
 ## Employment
-Since Jan 2025  &nbsp;  &nbsp;  &nbsp; Postdoctoral Researcher, School of Mathematical and Statistical Sciences, [University of Galway](https://www.universityofgalway.ie/).
+Since Jan 2025  &nbsp;  &nbsp;  &nbsp; Postdoctoral Researcher, School of Mathematical and Statistical Sciences, [University of Galway](https://www.universityofgalway.ie/).  
 Jun 2023 - Dec 2024 &nbsp; Research Associate, Department of Mathematics and Statistics, [The University of
 Western Australia](https://www.uwa.edu.au/).  
 Jan 2023 – Jun 2023 &nbsp; Temporary Lecturer, Department of Mathematics, [University of Auckland](https://www.auckland.ac.nz/).  
