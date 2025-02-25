@@ -30,6 +30,12 @@ https://doi.org/10.48550/arXiv.1703.00124)
 
 ## Selected talks 
 
+- *Imprimitive permutation groups of rank 3*,  [Joint meeting of the NZMS, AustMS
+and AMS](https://ms-meet-2024.blogs.auckland.ac.nz/) (slides)
+- *Intersection of conjugate solvable subgroups in finite classical groups*, [The 5th Workshop on
+Algebraic Graph Theory and its Applications](https://mca.nsu.ru/atg5_2021/), [Mathematical Center in Akademgorodok](https://english.nsu.ru/mca/) ([video](https://youtu.be/0RiA_3aqL8Y?si=raHxfCHsxQM3jOUw)), 2021
+- *On algebraic normalizers of maximal tori in simple groups of Lie type*, Groups and Geometries 2019, University of Auckland (slides)
+
 ## Employment
 Since Jan 2025  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;   Postdoctoral Researcher, School of Mathematical and Statistical Sciences, [University of Galway](https://www.universityofgalway.ie/).  
 Jun 2023 -- Dec 2024 &nbsp; Research Associate, Department of Mathematics and Statistics, [The University of
