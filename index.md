@@ -33,7 +33,7 @@ https://doi.org/10.48550/arXiv.1703.00124)
 - *Imprimitive permutation groups of rank 3*,  [Joint meeting of the NZMS, AustMS
 and AMS](https://ms-meet-2024.blogs.auckland.ac.nz/), University of Auckland, New Zealand 2024 [(slides)](/pdftexts/talk_nzms24.pdf)
 - *Intersection of conjugate solvable subgroups in finite classical groups*, [The 5th Workshop on
-Algebraic Graph Theory and its Applications](https://mca.nsu.ru/atg5_2021/), [Mathematical Center in Akademgorodok](https://english.nsu.ru/mca/) 2021 ([video])(https://youtu.be/0RiA_3aqL8Y?si=raHxfCHsxQM3jOUw) 
+Algebraic Graph Theory and its Applications](https://mca.nsu.ru/atg5_2021/), [Mathematical Center in Akademgorodok](https://english.nsu.ru/mca/) 2021 [(video)](https://youtu.be/0RiA_3aqL8Y?si=raHxfCHsxQM3jOUw) 
 - *On algebraic normalizers of maximal tori in simple groups of Lie type*, Groups and Geometries 2019,  University of Auckland, New Zealand [(slides)](/pdftexts/talk_GAG2019.pdf)
 
 ## Employment
