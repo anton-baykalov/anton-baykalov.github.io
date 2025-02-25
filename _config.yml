@@ -1,6 +1,6 @@
 title: "Anton Baykalov"
 author: "Anton Baykalov"
-description: ""
+#description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
