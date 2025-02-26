@@ -24,8 +24,8 @@ Algebra Logic 56 (2017), 87–97.
 
 - [*Intersection of conjugate solvable subgroups in finite classical groups*](https://researchspace.auckland.ac.nz/items/41a48dbb-85e5-4661-b3dd-6f3306cdb44b). PhD thesis, University of Auckland, 2021. [(extended and improved version)](
 https://doi.org/10.48550/arXiv.1703.00124)
-- [*Intersection of conjugate solvable subgroups in symmetric groups*](https://drive.google.com/file/d/1RtBc4UxZa5DHOL9ie4sXEFVvNK2gcXg_/view?usp=drive_link). Master's thesis, Novisibirsk State University, 2016 (in Russian)
-- [*Intersection of conjugate nilpotent subgroups in solvable groups*](https://drive.google.com/file/d/10e1pIennbH9c4wkEemqR3I1506y3nnvq/view?usp=drive_link). Bachelor's thesis, Novisibirsk State University, 2014 (in Russian)
+- [*Intersection of conjugate solvable subgroups in symmetric groups*](https://drive.google.com/file/d/1RtBc4UxZa5DHOL9ie4sXEFVvNK2gcXg_/view?usp=drive_link). Master's thesis, Novosibirsk State University, 2016 (in Russian)
+- [*Intersection of conjugate nilpotent subgroups in solvable groups*](https://drive.google.com/file/d/10e1pIennbH9c4wkEemqR3I1506y3nnvq/view?usp=drive_link). Bachelor's thesis, Novosibirsk State University, 2014 (in Russian)
 
 ## Selected talks 
 
@@ -45,7 +45,7 @@ Jan 2022 -- Jun 2022 &nbsp; Research Assistant, Department of Mathematics, [Univ
 
 ## Education
 2021 PhD in Mathematics, [University of Auckland](https://www.auckland.ac.nz/).  
-2016 Master in Mathematics and Computer Science, [Novisibirsk State University](https://english.nsu.ru/).  
+2016 Master in Mathematics and Computer Science, [Novosibirsk State University](https://english.nsu.ru/).  
 2014 Bachelor in Mathematics, [Novosibirks State University](https://english.nsu.ru/).  
 2010 High School, [M. A. Lavrentyev Specialized Educational Scientific Center of the Novosibirsk State University](https://sesc.nsu.ru/) (Physics and Mathematics School).
 
