@@ -11,8 +11,8 @@ In general, my research is in the field of Algebra, more specifically Group Theo
 
 
 ## Papers
-6. *Proper partial linear spaces affording imprimitive rank 3 automorphism groups*. (with [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger)) [(preprint)](https://arxiv.org/abs/2505.05124).
-5. *Base sizes for finite unitary and symplectic groups with solvable stabilisers*. Under review in the Int. J. Algebra Comput. [(preprint)](/pdftexts/BaseUSpBaykalov.pdf).
+6. *Proper partial linear spaces affording imprimitive rank 3 automorphism groups*. (with [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger)) Under review in J. of Algebra [(preprint)](https://arxiv.org/abs/2505.05124).
+5. *Base sizes for finite unitary and symplectic groups with solvable stabilisers*. Accepted to publication in the Int. J. Algebra Comput. [(preprint)](/pdftexts/BaseUSpBaykalov.pdf).
 4. [*Base sizes for finite linear groups with solvable stabilisers*](https://doi.org/10.1515/jgth-2023-0125).  J. Group Theory (2025), published online ahead of press.
 3. [*On algebraic normalisers of maximal tori in simple groups of Lie type*](https://doi.org/10.1515/jgth-2023-0070). J. Group Theory 27 (2024), no. 6, pp. 1357-1383. 
 2. [*Rank three innately transitive permutation groups and related 2-transitive groups*](https://doi.org/10.2140/iig.2023.20.135) (with [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger)). Innov. Incidence Geom. 20 (2023), no. 2-3, 135–175. 
