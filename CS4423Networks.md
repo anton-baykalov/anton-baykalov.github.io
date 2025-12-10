@@ -1,10 +1,10 @@
 ---
 layout: page
+title: CS4423 Networks, 2025/2026
 ---
 
 
 
-# CS4423 Networks, 2025/2026
 # University of Galway
 
 ### Lecturer:
