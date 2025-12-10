@@ -3,9 +3,12 @@ layout: page
 title: CS4423 Networks, 2025/2026
 ---
 
-<img align="right"  style="margin-right: 10px;" src="uog.png" width="200">
+
 
 # University of Galway
+
+<img  src="uog.png" width="200">
+
 
 ### Lecturer:
 Anton Baykalov
