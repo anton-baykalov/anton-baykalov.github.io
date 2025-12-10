@@ -7,7 +7,7 @@ title: CS4423 Networks, 2025/2026
 
 # University of Galway
 
-<img  src="/uog.png" width="200">
+<img  src="/uog.png" width="400">
 
 
 ### Lecturer:
